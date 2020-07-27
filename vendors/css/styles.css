@@ -4097,14 +4097,14 @@ margin-bottom: 2em
 
 .ast-footer-overlay {
 background-color: #3a3a3a;
-padding-top: 2em;
-padding-bottom: 2em
+padding-top: 1.5em;
+padding-bottom: 1.5em
 }
 
 @media (min-width: 769px) {
 .ast-footer-overlay {
-    padding-top: 2.66666em;
-    padding-bottom: 2.66666em
+    padding-top: 1.5em;
+    padding-bottom: 1.5em
 }
 }
 
