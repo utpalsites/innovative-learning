@@ -197,8 +197,8 @@ input[type=submit]:active {
 /* ----------------------------------------------- */
 
 header {
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero-min.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero-min.jpg);
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -238,7 +238,7 @@ header {
 
 .main-nav li {
     display: inline-block;
-    margin-left: 40px;
+    margin-left: 80px;
 }
 
 .main-nav li a:link,
